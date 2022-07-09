@@ -1,3 +1,7 @@
 alo1323 alo123 mes mowis
 version 3
+<<<<<<< HEAD
 version 4 by chuong
+=======
+version 4
+>>>>>>> 87633e59dd5055aead432d5449a53335d049a41c
